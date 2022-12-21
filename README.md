@@ -20,7 +20,7 @@ working on various projects through remote collaboration.</h4>
 
 - 🤝 Group Project  [Myntra - Clone](https://myntra-masai.netlify.app/index.html)
 
-- 🤝 Group Project  [ - Clone](https://fascinating-squirrel-599b77.netlify.app/) 
+- 🤝 Group Project  [Pharmeasy- Clone](https://fascinating-squirrel-599b77.netlify.app/) 
 
 - 👨‍💻 Individual Project [Mini-YouTube](https://gorgeous-youtube-03cd4f.netlify.app/)
 
