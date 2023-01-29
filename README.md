@@ -16,7 +16,7 @@ working on various projects through remote collaboration.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamroy8888&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 💼 My Portfolio https://portfolio-shivam-git.netlify.app
+- 💼 My Portfolio https://shivamroy8888.github.io/shivam-portfolio/
 
 - 🤝 Group Project  [Myntra - Clone](https://myntra-masai.netlify.app/index.html)
 
