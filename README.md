@@ -31,7 +31,7 @@ working on various projects through remote collaboration.</h4>
 - ❓ How to reach me **shivam88roy@gmail.com**
  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 
-- 📄 Resume [Resume](https://react-portfolio-shivam.netlify.app/index.pdf)
+- 📄 Resume [Resume](https://drive.google.com/file/d/1sycGMnPUWPW49W16MxpK0PXdJ78nM6bX/view)
 
 - ⚡ Fun fact **I am Sarcastic!**
 
