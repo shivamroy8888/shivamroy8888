@@ -20,7 +20,7 @@ working on various projects through remote collaboration.</h4>
 
 - 🤝 Project  [Openai-image-generator - Clone](https://openai-image-creator-by-shivam.netlify.app/)
 
-- 🤝 Project  [Pharmeasy- Clone](https://fascinating-squirrel-599b77.netlify.app/) 
+- 🤝 Project  [Myntra- Clone](https://myntra-masai.netlify.app/index.html) 
 
 - 👨‍💻 Project [YouTube-clone](https://youtube-by-shivam.netlify.app/)
 
