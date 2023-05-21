@@ -16,17 +16,13 @@ working on various projects through remote collaboration.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamroy8888&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 💼 My Portfolio https://shivamroy8888.github.io/shivam-portfolio/
+- 💼 My Portfolio https://portfolio--shivam.vercel.app/
 
-- 🤝 Group Project  [Myntra - Clone](https://myntra-masai.netlify.app/index.html)
+- 🤝 Project  [Openai-image-generator - Clone](https://openai-image-creator-by-shivam.netlify.app/)
 
-- 🤝 Group Project  [Pharmeasy- Clone](https://fascinating-squirrel-599b77.netlify.app/) 
+- 🤝 Project  [Pharmeasy- Clone](https://fascinating-squirrel-599b77.netlify.app/) 
 
-- 👨‍💻 Individual Project [Mini-YouTube](https://gorgeous-youtube-03cd4f.netlify.app/)
-
-- 👨‍💻 I’m currently learning **MERN STACK**
-
-- 📧 Ask me about **Backend**
+- 👨‍💻 Project [YouTube-clone](https://youtube-by-shivam.netlify.app/)
 
 - ❓ How to reach me **shivam88roy@gmail.com**
  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
