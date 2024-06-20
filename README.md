@@ -4,13 +4,8 @@ I'm Shivam <img width="45px" src="https://camo.githubusercontent.com/d3359cb00ab
 alt="😎"/>
 </h1>
 
-<h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
-<h4>Software professional with expertise in MERN technology,
-HTML, CSS, JavaScript, and experienced in solving more than
-400+ Dsa problems. Looking forward to being a part of an
-organization that allows constant learning and development
-of my technical and management skills. Experienced in
-working on various projects through remote collaboration.</h4>
+<h3 align="left">Full-stack Web Developer</h3>
+<h4>I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamroy8888&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
@@ -18,13 +13,15 @@ working on various projects through remote collaboration.</h4>
 
 - 💼 My Portfolio https://portfolio--shivam.vercel.app/
 
+- 🤝 Project  [https://socialgram-createdby-shivam.netlify.app/)
+
 - 🤝 Project  [Openai-image-generator - Clone](https://openai-image-creator-by-shivam.netlify.app/)
 
 - 🤝 Project  [Myntra- Clone](https://myntra-masai.netlify.app/index.html) 
 
 - 👨‍💻 Project [YouTube-clone](https://youtube-by-shivam.netlify.app/)
 
-- ❓ How to reach me **shivam88roy@gmail.com**
+- ❓ How to reach me **shivamyadavdeveloper@gmail.com**
  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 
 - 📄 Resume [Resume](https://drive.google.com/file/d/1sycGMnPUWPW49W16MxpK0PXdJ78nM6bX/view)
